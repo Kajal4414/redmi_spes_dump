@@ -1,0 +1,12 @@
+modem.img
+product/data-app/MicrosoftOneDrive/MicrosoftOneDrive.apk
+product/data-app/SmartHome/SmartHome.apk
+product/data-app/MIMediaEditorGlobal/MIMediaEditorGlobal.apk
+product/app/TrichromeLibrary64/TrichromeLibrary64.apk
+product/priv-app/Messages/Messages.apk
+product/priv-app/GmsCore/GmsCore.apk
+product/priv-app/Velvet/Velvet.apk
+product/priv-app/ExtraPhotoGlobal/ExtraPhotoGlobal.apk
+vendor/lib64/camera/components/com.qti.node.mialgocontrol.so
+system_ext/apex/com.android.vndk.v30.apex
+system_ext/priv-app/Settings/Settings.apk
