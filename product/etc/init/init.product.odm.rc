@@ -1,0 +1,9 @@
+on post-fs-data
+    mkdir /data/anr 0775 system system encryption=Require
+    mkdir /data/tombstones/modem 0771 system system encryption=Require
+    mkdir /data/vendor/tombstones 0771 root root
+    mkdir /data/vendor/tombstones/wifi 0771 wifi wifi
+
+
+on property:persist.vendor.bt.a2dp.absolute.volume.whitelistall=*
+    setprop persist.vendor.bt.a2dp.absolute.volume.whitelistall default

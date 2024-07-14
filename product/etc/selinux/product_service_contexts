@@ -1,0 +1,2 @@
+#line 1 "packages/apps/Cit/FingerprintApps/Goodix/sepolicy/product/private/service_contexts"
+com.goodix.FingerprintService  u:object_r:goodix_fingerprint_service:s0
